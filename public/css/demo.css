@@ -1,0 +1,11 @@
+.banner{
+    background-image: url("C:/Users/Admin/Documents/Font-End/OnTapKT210620/public/images/banner.jpg");
+} 
+.navbar-expand-sm .navbar-nav .nav-link{
+    color: white;
+}
+.contain{
+    padding: 200px;
+    color:white;
+    text-align: center;
+}
